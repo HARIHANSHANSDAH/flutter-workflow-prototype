@@ -67,6 +67,8 @@ Ensure the following are installed:
 Clone the repository:
 
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/HARIHANSHANSDAH/flutter-workflow-prototype.git
+cd NewApp
+
+
 
