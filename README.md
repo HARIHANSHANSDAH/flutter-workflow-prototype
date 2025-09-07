@@ -14,36 +14,36 @@ Roles & Features
 This is the person who requests multiple items.
 They can:
 
-Create a new request by selecting the items they need.
+- Create a new request by selecting the items they need.
 
-Submit that request to the system.
+- Submit that request to the system.
 
-Check the status of their requests, which could be:
+- Check the status of their requests, which could be:
 
-Pending → The request has been submitted and is waiting for review.
+- Pending → The request has been submitted and is waiting for review.
 
-Confirmed → All items were approved by the receiver.
+- Confirmed → All items were approved by the receiver.
 
-Partially Fulfilled → Some items were confirmed, but others got reassigned.
+- Partially Fulfilled → Some items were confirmed, but others got reassigned.
 
-Follow the progress of their requests in real-time (without relying on Firebase).
+- Follow the progress of their requests in real-time (without relying on Firebase).
 
 2. Receiver
 
 This is the person or team responsible for reviewing and fulfilling requests.
 They can:
 
-See all new requests assigned to them.
+- See all new requests assigned to them.
 
-Open a request and review each item one by one.
+- Open a request and review each item one by one.
 
-Mark items as either Available or Not Available.
+- Mark items as either Available or Not Available.
 
-Submit their decisions back to the system.
+- Submit their decisions back to the system.
 
-If everything is confirmed → the request status updates to Confirmed.
+- If everything is confirmed → the request status updates to Confirmed.
 
-If only some items are confirmed → the request status changes to Partially Fulfilled, and the unconfirmed items are reassigned.
+- If only some items are confirmed → the request status changes to Partially Fulfilled, and the unconfirmed items are reassigned.
 
 # Demo_Video
 
