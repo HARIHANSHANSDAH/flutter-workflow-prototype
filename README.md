@@ -50,3 +50,23 @@ If only some items are confirmed → the request status changes to Partially Ful
 https://github.com/user-attachments/assets/92831f3a-d2e7-46bf-866b-9a83f9c739bf
 
 
+## Prerequisites
+
+Ensure the following are installed:
+
+- [Node.js](https://nodejs.org/) (v18+ recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Git](https://git-scm.com/)
+- Optional: Android Studio / Xcode for mobile/emulator
+
+---
+
+## Git Clone
+
+Clone the repository:
+
+```bash
+git clone https://github.com/username/repository-name.git
+cd repository-name
+
